@@ -99,7 +99,7 @@ body {
 }
 
 .weather-box .description {
-  color: pink;
+  color: rgb(177, 0, 29);
   font-size: 22px;
   font-weight: 500;
   text-transform: capitalize;

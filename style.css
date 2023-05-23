@@ -11,14 +11,14 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #bab2ca;
+  background: url(./pics/pexels-mark-burnett-1095817.jpg) no-repeat center center fixed;
 }
 
 .container {
   position: relative;
   width: 400px;
   height: 130px;
-  background: #e7dfdfcc;
+  background: #396868e8;
   padding: 28px 32px;
   padding-top: 40px;
   overflow: hidden;

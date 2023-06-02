@@ -18,7 +18,7 @@ body {
   position: relative;
   width: 400px;
   height: 130px;
-  background: #396868e8;
+  background: #384d4acb;
   padding: 28px 32px;
   padding-top: 40px;
   overflow: hidden;
@@ -36,8 +36,8 @@ body {
 }
 
 .search-box input {
-  color: rgb(116, 72, 94);
-  background: #e7dfdf5b;
+  color: rgb(0, 0, 0);
+  background: #e7dfdf25;
   width: 80%;
   font-size: 24px;
   font-weight: 500;
@@ -48,7 +48,7 @@ body {
 .search-box input::placeholder {
   font-size: 20px;
   font-weight: 500;
-  color: darkgreen;
+  color: rgb(201, 195, 112);
   text-transform: capitalize;
 }
 
@@ -64,7 +64,7 @@ body {
 }
 
 .search-box button:hover {
-  color: #fff;
+  color: #aa9898;
   background: black;
 }
 
@@ -85,7 +85,7 @@ body {
 
 .weather-box .temperature {
   position: relative;
-  color: rgb(63, 16, 49);
+  color: rgb(45, 46, 19);
   font-size: 4rem;
   font-weight: 800;
   margin-top: 30px;
@@ -99,7 +99,7 @@ body {
 }
 
 .weather-box .description {
-  color: rgb(177, 0, 29);
+  color: rgb(24, 24, 24);
   font-size: 22px;
   font-weight: 500;
   text-transform: capitalize;
@@ -137,7 +137,7 @@ body {
 }
 
 .weather-details span {
-  color: rgb(63, 95, 95);
+  color: rgb(42, 44, 44);
   font-size: 22px;
   font-weight: 500;
 }
